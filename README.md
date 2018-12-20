@@ -6,6 +6,9 @@ circuit
 
 <br>
 Original code from http://www.mikronauts.com/raspberry-pi/raspberry-pi-4x4-keypad-i2c-MCP23017-howto/
+<br>
 picture1 from http://qqtrading.com.my/keypad-button-4x4-numeric-matrix-array
+<br>
 picture2 from https://nettigo.eu/products/pcf8574-module-8-bit-i-o-expander-for-i2c-bus
+<br>
 picture3 from https://hexdocs.pm/nerves_system_rpi3/1.0.0-rc.0/readme.html
